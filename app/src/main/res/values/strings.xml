@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="JustDoIt">20% Discount</string>
+    <string name="WithNike">on your first purchase</string>
+    <string name="NewsetShoes">Newset Shoes</string>
+    <string name="popluar">Popluar</string>
+
+    //Recycle
+    <string-array name="brand_name">
+        <item>Nike</item>
+        <item>Adidas</item>
+
+    </string-array>
+    <string-array name="quoate">
+        <item>Free metkon</item>
+        <item>fast delivery</item>
+    </string-array>
+    <string-array name="Prix">
+        <item>$ 150</item>
+        <item>$ 20</item>
+    </string-array>
+
+    //Grid
+
+    <string-array name="brand_name2">
+        <item>JORDAN 4 BLACK CAT</item>
+        <item>JORDAN 1 LOW </item>
+        <item>JORDAN 4 UNIVERSITY</item>
+        <item>JORDAN 4 FIRE RED</item>
+        <item>JORDAN 4 BLACK CAT</item>
+        <item>JORDAN 1 LOW </item>
+        <item>JORDAN 4 UNIVERSITY</item>
+        <item>JORDAN 4 FIRE RED</item>
+    </string-array>
+    <string-array name="Prix2">
+        <item>$207.99</item>
+        <item>$228.99</item>
+        <item>$207.99</item>
+        <item>$228.99
+</item>
+        <item>$207.99</item>
+        <item>$228.99</item>
+        <item>$207.99</item>
+        <item>$228.99
+</item>
+    </string-array>
+
+    <array name="simple_items">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
