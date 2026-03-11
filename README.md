@@ -1,20 +1,45 @@
-<h1>App to sell shoes</h1>
-<p>This is a app for sell shoes call Shoetopia written in Java and xml</p>
-<h1>Tech Stack</h1>
-Java & Firebase & xml 
+# Shoetopia
 
-<h1>In this project I learned how to use:</h1>
-<ul>
-  <li>Fragments</li>
-  <li>Firebase</li>
-  <li>Authentification</li>
-  <li>RecylerView with Firebase</li>
-  <li>Material design</li>
-  <li>Shimmer</li>
+Shoetopia is an Android app for selling shoes, built with Java, XML, and Firebase.
 
-</ul>
+## Features
 
+- Browse shoes in a grid layout
+- Switch between product categories using fragments
+- View product details with size selection
+- Add products to cart with real-time badge updates
+- Sign up and log in with Firebase Authentication
+- Store products, users, and cart data in Firebase Realtime Database
+- Swipe to remove products from cart
+- Show loading state with Shimmer effect
 
-![WhatsApp Image 2024-03-01 à 16 18 48_5b905d38](https://github.com/AyoubElho/Shoetopia/assets/161326721/b1c8e2b9-f937-48d8-95f5-10f940adad40)
-![WhatsApp Image 2024-03-01 à 16 18 48_f2397730](https://github.com/AyoubElho/Shoetopia/assets/161326721/995522b5-b0c8-4a56-8b0d-57c880b12562)
-![WhatsApp Image 2024-03-01 à 16 18 49_828aa03a](https://github.com/AyoubElho/Shoetopia/assets/161326721/202ab80b-69ac-4bff-9df5-d4c5a71fdc88)
+## Tech Stack
+
+- Java
+- XML
+- Android ViewBinding
+- Firebase Authentication
+- Firebase Realtime Database
+- Firebase UI Database
+- Material Components
+- Glide
+- Facebook Shimmer
+
+## Requirements
+
+- Android Studio
+- Android SDK 34
+- Minimum SDK 24
+- Firebase project (Auth + Realtime Database enabled)
+
+## Getting Started
+
+1. Open the project in Android Studio.
+2. Ensure `app/google-services.json` is configured for your Firebase project.
+3. Sync Gradle and run the app on an emulator or a real device.
+
+## Screenshots
+
+| Home | Product Details | Cart |
+| --- | --- | --- |
+| ![Home](https://github.com/AyoubElho/Shoetopia/assets/161326721/b1c8e2b9-f937-48d8-95f5-10f940adad40) | ![Product Details](https://github.com/AyoubElho/Shoetopia/assets/161326721/995522b5-b0c8-4a56-8b0d-57c880b12562) | ![Cart](https://github.com/AyoubElho/Shoetopia/assets/161326721/202ab80b-69ac-4bff-9df5-d4c5a71fdc88) |
